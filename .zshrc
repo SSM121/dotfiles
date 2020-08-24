@@ -76,6 +76,7 @@ plugins=(
 	colored-man-pages
 	pip
 	python
+	emoji
 	)
 
 source $ZSH/oh-my-zsh.sh
