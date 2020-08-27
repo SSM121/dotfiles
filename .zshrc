@@ -106,5 +106,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# exports for path
 export PATH=/home/spencerk/libraries/flutter/bin:$PATH
+export PATH=$PATH:/opt/gradle/gradle-6.6.1/bin
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
